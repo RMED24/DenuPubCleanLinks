@@ -23,9 +23,15 @@ magnet:?xt=urn:btih:574F158CFBBCBAA7333593572501A5F076DEEEB0&dn=Hatsune%20Miku%2
 aHR0cHM6Ly9mbGFzaGJhbmcuc2gvZi9HUmV6MWVUaVlBQQ==
 
 ### Metaphor: ReFantazio
+
+Old version only  download new version at  pastebin
+
 magnet:?xt=urn:btih:c0285b1ad24f2e9a5ee58fb6d5155abfd771b3a4&dn=METAPHOR&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce
 
 ### Mortal Kombat 1 (without DLCs)
+
+Not serving it cuz activation error 
+
 magnet:?xt=urn:btih:2389E9EBEBEF42A9F70CAECFCF8B31D0C3A6A8A2&dn=Mortal%20Kombat%201&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce
 
 ### Persona 3 Reload:
