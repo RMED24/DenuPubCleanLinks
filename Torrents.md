@@ -11,7 +11,7 @@ magnet:?xt=urn:btih:DFA868EC2D7B89C38A21EB25D40BBF2583B4DDAB&dn=BlackMythWukong&
 magnet:?xt=urn:btih:A47BD3DD600057753F0D08D6AAC49BDB719DEF49&dn=EA%20SPORTS%20FC%2025&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce
 
 ### Final Fantasy 16:
-magnet:?xt=urn:btih:557C419A16DA29E89EBB86D2C179075B24B84AD5&dn=FINAL%20FANTASY%20XVI&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce
+magnet:?xt=urn:btih:4VVQCHSAC55ZSUUNV22P55CEXG723PNG&dn=FINAL%20FANTASY%20XVI&tr.1=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr.2=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr.3=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr.4=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr.5=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce
 
 ### Football Manager 2024:
 aHR0cHM6Ly9mbGFzaGJhbmcuc2gvZi9HU2M3Um5NMG9BQQ==
